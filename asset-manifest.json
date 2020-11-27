@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alexa/static/css/main.d01cbee4.chunk.css",
+    "main.js": "/alexa/static/js/main.f4722559.chunk.js",
+    "main.js.map": "/alexa/static/js/main.f4722559.chunk.js.map",
+    "runtime-main.js": "/alexa/static/js/runtime-main.de656a42.js",
+    "runtime-main.js.map": "/alexa/static/js/runtime-main.de656a42.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/alexa/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.0d03675e.chunk.js": "/alexa/static/js/2.0d03675e.chunk.js",
+    "static/js/2.0d03675e.chunk.js.map": "/alexa/static/js/2.0d03675e.chunk.js.map",
+    "static/js/3.58fb074c.chunk.js": "/alexa/static/js/3.58fb074c.chunk.js",
+    "static/js/3.58fb074c.chunk.js.map": "/alexa/static/js/3.58fb074c.chunk.js.map",
+    "index.html": "/alexa/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/alexa/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.d01cbee4.chunk.css.map": "/alexa/static/css/main.d01cbee4.chunk.css.map",
+    "static/js/2.0d03675e.chunk.js.LICENSE.txt": "/alexa/static/js/2.0d03675e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de656a42.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.0d03675e.chunk.js",
+    "static/css/main.d01cbee4.chunk.css",
+    "static/js/main.f4722559.chunk.js"
+  ]
+}
